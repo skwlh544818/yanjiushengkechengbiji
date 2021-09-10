@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机前沿技术/2021-09-06.md",
-            "mode": "preview"
+            "file": "leetcode/两数相加.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机前沿技术/2021-09-06.md",
+                "file": "leetcode/两数相加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "1356be7f9fdb8799",
   "lastOpenFiles": [
+    "未命名.md",
     "计算机前沿技术/2021-09-06.md",
     "README.md",
     "2021-09-06.md"
