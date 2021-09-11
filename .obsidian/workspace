@@ -70,7 +70,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -90,9 +90,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "864f11e875c485a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,8 +108,9 @@
   },
   "active": "91d9cc4d223aa570",
   "lastOpenFiles": [
-    "leetcode/未命名.md",
+    "leetcode/无重复字符的最大子串.md",
     "leetcode/两数之和.md",
+    "leetcode/未命名.md",
     "leetcode/两数相加.md",
     "计算机前沿技术/2021-09-06.md",
     "未命名.md",
