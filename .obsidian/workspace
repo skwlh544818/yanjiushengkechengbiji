@@ -7,8 +7,11 @@
         "id": "91d9cc4d223aa570",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "leetcode/无重复字符的最大子串.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "leetcode/无重复字符的最大子串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +111,15 @@
   },
   "active": "91d9cc4d223aa570",
   "lastOpenFiles": [
+    "leetcode/无重复字符的最大子串.md",
+    "leetcode/两数之和.md",
+    "leetcode/解法汇总/string.md",
+    "leetcode/两数相加.md",
     "leetcode/array.md",
     "leetcode/linked-list.md",
     "leetcode/寻找两个正序数组的中位数.md",
-    "leetcode/无重复字符的最大子串.md",
-    "leetcode/两数之和.md",
-    "leetcode/两数相加.md",
     "leetcode/未命名.md",
     "计算机前沿技术/2021-09-06.md",
-    "未命名.md",
-    "README.md"
+    "未命名.md"
   ]
 }

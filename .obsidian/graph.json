@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:leetcode/解法汇总",
       "color": {
         "a": 1,
-        "rgb": 14048391
+        "rgb": 8528161
+      }
+    },
+    {
+      "query": "path:leetcode/解法汇总",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -26,5 +33,5 @@
   "linkStrength": 0.424117647058824,
   "linkDistance": 134,
   "scale": 0.655498353494692,
-  "close": false
+  "close": true
 }
