@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,13 +117,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 228.5
   },
-  "active": "7573cdf305a1da80",
+  "active": "91d9cc4d223aa570",
   "lastOpenFiles": [
     "leetcode/寻找两个正序数组的中位数.md",
     "leetcode/两数之和.md",
