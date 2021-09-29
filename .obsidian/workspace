@@ -94,6 +94,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "628865a5fdac204c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "feb0b4fa18344f82",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
