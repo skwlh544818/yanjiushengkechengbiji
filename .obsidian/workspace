@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "91d9cc4d223aa570",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "计算机前沿技术/2021-09-20.md",
-            "mode": "source"
-          }
-        },
-        "group": "b0d7732dd12c191a"
-      },
-      {
         "id": "7573cdf305a1da80",
         "type": "leaf",
         "state": {
@@ -24,8 +12,7 @@
             "file": "计算机前沿技术/2021-09-20.md",
             "mode": "preview"
           }
-        },
-        "group": "b0d7732dd12c191a"
+        }
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
     "direction": "horizontal",
     "width": 228.5
   },
-  "active": "91d9cc4d223aa570",
+  "active": "7573cdf305a1da80",
   "lastOpenFiles": [
     "计算机前沿技术/2021-09-20.md",
     "计算机前沿技术/2021-09-13.md",
