@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机前沿技术/2021-09-06.md",
-            "mode": "preview"
+            "file": "实用机器学习/1.1 课程介绍.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机前沿技术/2021-09-06.md",
+                "file": "实用机器学习/1.1 课程介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "7573cdf305a1da80",
   "lastOpenFiles": [
+    "未命名.md",
     "计算机前沿技术/2021-09-06.md",
     "计算机前沿技术/2021-09-13.md",
     "计算机前沿技术/2021-09-20.md",
@@ -128,7 +129,6 @@
     "2021-10-11.md",
     "conflict-files-obsidian-git.md",
     "2021-09-27.md",
-    "未命名.md",
     "2021-09-20.md"
   ]
 }
