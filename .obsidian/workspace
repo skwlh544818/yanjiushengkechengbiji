@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机前沿技术/2021-10-18.md",
+            "file": "实用机器学习/1.2 数据获取.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机前沿技术/2021-10-18.md",
+                "file": "实用机器学习/1.2 数据获取.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,8 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "672da150ac71a8ed",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,6 +119,8 @@
   },
   "active": "7573cdf305a1da80",
   "lastOpenFiles": [
+    "实用机器学习/1.2 数据获取.md",
+    "实用机器学习/1.1 课程介绍.md",
     "计算机前沿技术/2021-10-18.md",
     "计算机前沿技术/2021-10-11.md",
     "计算机前沿技术/2021-09-27.md",
@@ -135,8 +128,6 @@
     "计算机前沿技术/2021-09-13.md",
     "计算机前沿技术/2021-09-06.md",
     "实用机器学习/未命名.md",
-    "实用机器学习/1.2 数据获取.md",
-    "2021-10-18.md",
-    "未命名.md"
+    "2021-10-18.md"
   ]
 }
