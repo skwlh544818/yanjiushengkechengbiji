@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "计算机前沿技术/2021-09-27.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机前沿技术/2021-09-27.md",
+                "file": "实用机器学习/1.2 数据获取.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,23 @@
             }
           },
           {
-            "id": "c9ebae8f7d408a9c",
+            "id": "d75db17115e7c723",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e13076679c9c03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "628865a5fdac204c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,39 +104,31 @@
             }
           },
           {
-            "id": "6b8c856e28b9ca66",
+            "id": "feb0b4fa18344f82",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "864f11e875c485a7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 280
   },
   "active": "7573cdf305a1da80",
   "lastOpenFiles": [
     "计算机前沿技术/2021-09-27.md",
     "计算机前沿技术/2021-09-20.md",
+    "conflict-files-obsidian-git.md",
+    "2021-09-27.md",
+    "未命名.md",
     "计算机前沿技术/2021-09-13.md",
     "计算机前沿技术/2021-09-06.md",
-    "leetcode/寻找两个正序数组的中位数.md",
-    "leetcode/两数之和.md",
-    "leetcode/无重复字符的最大子串.md",
-    "leetcode/两数相加.md",
-    "leetcode/解法汇总/two-pointer.md",
-    "leetcode/解法汇总/string.md"
+    "2021-09-20.md",
+    "2021-09-13.md",
+    "计算机前沿技术/2021-09-26.md"
   ]
 }
