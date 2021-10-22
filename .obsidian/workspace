@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机前沿技术/2021-09-27.md",
+            "file": "实用机器学习/1.2 数据获取.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实用机器学习/1.2 数据获取.md",
+                "file": "实用机器学习/1.4 数据标注.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,22 +77,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "d75db17115e7c723",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f2e13076679c9c03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -111,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,15 +103,15 @@
   },
   "active": "7573cdf305a1da80",
   "lastOpenFiles": [
-    "计算机前沿技术/2021-09-27.md",
-    "计算机前沿技术/2021-09-20.md",
-    "conflict-files-obsidian-git.md",
-    "2021-09-27.md",
+    "实用机器学习/未命名.md",
     "未命名.md",
-    "计算机前沿技术/2021-09-13.md",
     "计算机前沿技术/2021-09-06.md",
-    "2021-09-20.md",
-    "2021-09-13.md",
-    "计算机前沿技术/2021-09-26.md"
+    "计算机前沿技术/2021-09-13.md",
+    "计算机前沿技术/2021-09-20.md",
+    "计算机前沿技术/2021-09-27.md",
+    "计算机前沿技术/2021-10-11.md",
+    "2021-10-11.md",
+    "conflict-files-obsidian-git.md",
+    "2021-09-27.md"
   ]
 }
