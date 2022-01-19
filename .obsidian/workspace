@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetcode/两数之和.md",
+            "file": "leetcode/解法汇总/divide-and-conquer.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 169.5
+    "width": 264
   },
   "right": {
     "id": "923e6b1bc662279f",
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/两数之和.md",
+                "file": "leetcode/解法汇总/divide-and-conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,15 +104,15 @@
   },
   "active": "7573cdf305a1da80",
   "lastOpenFiles": [
-    "leetcode/两数之和.md",
+    "leetcode/解法汇总/divide-and-conquer.md",
+    "leetcode/解法汇总/binary-search.md",
+    "leetcode/解法汇总/array.md",
+    "实用机器学习/2.4 特征工程.md",
+    "实用机器学习/2.5 总结.md",
+    "实用机器学习/1.1 课程介绍.md",
     "leetcode/两数相加.md",
-    "计算机前沿技术/2021-10-18.md",
-    "计算机前沿技术/2021-10-11.md",
-    "计算机前沿技术/2021-11-15.md",
-    "计算机前沿技术/2021-11-08.md",
-    "计算机前沿技术/2021-09-27.md",
-    "计算机前沿技术/2021-09-20.md",
-    "计算机前沿技术/2021-09-13.md",
-    "计算机前沿技术/2021-09-06.md"
+    "conflict-files-obsidian-git.md",
+    "leetcode/两数之和.md",
+    "计算机前沿技术/2021-10-18.md"
   ]
 }
