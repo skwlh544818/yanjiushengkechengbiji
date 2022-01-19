@@ -16,3 +16,8 @@
 	```bash
 	source /root/anaconda3/bin/activate
 	```
+> 需要更换成自己的地址
++ 第三步运行命令
+	```bash
+	conda init
+	```
