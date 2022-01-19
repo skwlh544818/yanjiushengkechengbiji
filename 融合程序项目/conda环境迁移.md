@@ -10,3 +10,6 @@
 + 可以配置清华镜像源，在使用帮助中有[使用方法](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 + 配置好环境，使用`conda install numpy`或者`pip install numpy`
 # 将本机环境迁移到内网环境
++ 第一步肯定是将配置好的Anaconda3文件夹迁移到内网环境
+> 需要将文件夹放到与本机相同的位置
++ 第二步运行环境
