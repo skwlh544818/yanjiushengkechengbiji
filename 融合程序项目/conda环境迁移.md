@@ -8,3 +8,5 @@
 + 运行`./Anaconda3-2021.11-Linux-x86_64.sh`
 + 在默认的路径下会生成Anaconda3的文件夹，这是等下需要迁移的文件夹
 + 可以配置清华镜像源，在使用帮助中有[使用方法](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
++ 配置好环境，使用`conda install numpy`或者`pip install numpy`
+# 将本机环境迁移到内网环境
