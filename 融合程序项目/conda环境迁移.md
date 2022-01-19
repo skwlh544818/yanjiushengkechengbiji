@@ -4,4 +4,5 @@
 # 本机安装anaconda
 这一步已经有很多人讲过了。
 + 首先本机和内网里的系统需要一致，要是Ubuntu，都是Ubuntu系统。
-+ 其次可以从[清华镜像源(https://mirrors.tuna.tsinghua.edu.cn/)
++ 其次可以从[清华镜像源](https://mirrors.tuna.tsinghua.edu.cn/)l里下载anaconda安装包
++ 运行`./`
