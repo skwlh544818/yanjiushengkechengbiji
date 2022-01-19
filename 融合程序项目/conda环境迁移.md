@@ -5,4 +5,6 @@
 这一步已经有很多人讲过了。
 + 首先本机和内网里的系统需要一致，要是Ubuntu，都是Ubuntu系统。
 + 其次可以从[清华镜像源](https://mirrors.tuna.tsinghua.edu.cn/)l里下载anaconda安装包
-+ 运行`./`
++ 运行`./Anaconda3-2021.11-Linux-x86_64.sh`
++ 在默认的路径下会生成Anaconda3的文件夹，这是等下需要迁移的文件夹
++ 可以配置清华镜像源，在使用帮助中有[使用方法](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
