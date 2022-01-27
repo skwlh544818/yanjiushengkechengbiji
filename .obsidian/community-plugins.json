@@ -5,5 +5,8 @@
   "obsidian-git",
   "obsidian-mind-map",
   "obsidian-kanban",
-  "obsidian-activity-history"
+  "obsidian-activity-history",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-admonition"
 ]
